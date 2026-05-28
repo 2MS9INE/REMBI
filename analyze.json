@@ -1,0 +1,27 @@
+
+  error - A value of type 'PostgrestTransformBuilder<PostgrestList>' can't be assigned to a variable of type 'PostgrestFilterBuilder<PostgrestList>' - lib\features\home\data\listing_repository.dart:43:19 - invalid_assignment
+  error - A value of type 'PostgrestTransformBuilder<PostgrestList>' can't be assigned to a variable of type 'PostgrestFilterBuilder<PostgrestList>' - lib\features\home\data\listing_repository.dart:46:19 - invalid_assignment
+  error - A value of type 'PostgrestTransformBuilder<PostgrestList>' can't be assigned to a variable of type 'PostgrestFilterBuilder<PostgrestList>' - lib\features\home\data\listing_repository.dart:49:19 - invalid_assignment
+  error - A value of type 'PostgrestTransformBuilder<PostgrestList>' can't be assigned to a variable of type 'PostgrestFilterBuilder<PostgrestList>' - lib\features\home\data\listing_repository.dart:53:19 - invalid_assignment
+   info - Don't invoke 'print' in production code - lib\features\home\data\listing_repository.dart:92:7 - avoid_print
+  error - Target of URI doesn't exist: '../../listing/domain/listing.dart' - lib\features\home\presentation\providers\home_provider.dart:3:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../data/listing_repository.dart' - lib\features\home\presentation\providers\home_provider.dart:4:8 - uri_does_not_exist
+  error - The function 'StateProvider' isn't defined - lib\features\home\presentation\providers\home_provider.dart:7:29 - undefined_function
+  error - The function 'StateProvider' isn't defined - lib\features\home\presentation\providers\home_provider.dart:8:34 - undefined_function
+  error - The function 'StateProvider' isn't defined - lib\features\home\presentation\providers\home_provider.dart:9:32 - undefined_function
+  error - The function 'StateProvider' isn't defined - lib\features\home\presentation\providers\home_provider.dart:10:24 - undefined_function
+  error - The name 'Listing' isn't a type, so it can't be used as a type argument - lib\features\home\presentation\providers\home_provider.dart:13:87 - non_type_as_type_argument
+  error - The name 'Listing' isn't a type, so it can't be used as a type argument - lib\features\home\presentation\providers\home_provider.dart:17:59 - non_type_as_type_argument
+  error - The name 'Listing' isn't a type, so it can't be used as a type argument - lib\features\home\presentation\providers\home_provider.dart:19:17 - non_type_as_type_argument
+  error - Undefined name 'listingRepositoryProvider' - lib\features\home\presentation\providers\home_provider.dart:20:28 - undefined_identifier
+  error - The name 'Listing' isn't a type, so it can't be used as a type argument - lib\features\home\presentation\providers\home_provider.dart:25:71 - non_type_as_type_argument
+  error - The name 'Listing' isn't a type, so it can't be used as a type argument - lib\features\home\presentation\providers\home_provider.dart:29:51 - non_type_as_type_argument
+  error - The name 'Listing' isn't a type, so it can't be used as a type argument - lib\features\home\presentation\providers\home_provider.dart:31:17 - non_type_as_type_argument
+  error - The name 'Listing' isn't a type, so it can't be used as a type argument - lib\features\home\presentation\providers\home_provider.dart:35:15 - non_type_as_type_argument
+  error - Undefined name 'listingRepositoryProvider' - lib\features\home\presentation\providers\home_provider.dart:36:28 - undefined_identifier
+   info - 'surfaceVariant' is deprecated and shouldn't be used. Use surfaceContainerHighest instead. This feature was deprecated after v3.18.0-0.1.pre - lib\features\home\presentation\screens\home_screen.dart:130:50 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\features\home\presentation\screens\home_screen.dart:183:13 - deprecated_member_use
+warning - Dead code - lib\features\listing\presentation\widgets\listing_card.dart:75:54 - dead_code
+warning - The left operand can't be null, so the right operand is never executed - lib\features\listing\presentation\widgets\listing_card.dart:75:57 - dead_null_aware_expression
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\onboarding\language_select_screen.dart:71:54 - deprecated_member_use
+

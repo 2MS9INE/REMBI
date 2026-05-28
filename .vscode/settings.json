@@ -1,0 +1,10 @@
+{
+    "java.jdt.ls.java.home": "D:\\Andriod Studio\\jbr",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-17",
+            "path": "D:\\Andriod Studio\\jbr",
+            "default": true
+        }
+    ]
+}
