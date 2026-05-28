@@ -1,6 +1,5 @@
 # Rembi — رمبي
 
-> **السوق الذكي للفلاح الجزائري** — The smart marketplace for the Algerian farmer.
 
 Rembi is a mobile marketplace connecting Algerian farmers and artisans with buyers across the country. Sellers register, post listings with photos, and receive direct contact via phone or WhatsApp. Buyers browse, search, and filter by category and wilaya.
 
